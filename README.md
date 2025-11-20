@@ -1,10 +1,18 @@
-## Hi there 👋
+## Hi, I'm @R051E 👋
+
+About me: 
+- I am a Computer Science university student 💻
+- I enjoy coding and problem solving 🔎
+- I am 18 years old, quite reserved but dedicated and hard working 🫡
+
+I am currently in my first year of studying at the University of South Wales, pursuing a bachelor's degree in Computer Science 📚
 
 <!--
 **R051E/R051E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- About me’, ‘What I am doing’,
+‘Skillset’, ‘Recent Projects Completed’ and ‘Hobbies’
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
