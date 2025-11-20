@@ -2,7 +2,7 @@
 
 ## About me: 
 - I am a Computer Science university student 💻
-- I have always been drawn to computers, from quality time spent gaming with friends and family to curiosity about artificial intelligence and how computers work 🤖
+- I have always been drawn to computers, from writing stories on word as a child to quality time spent gaming with friends and family to curiosity about artificial intelligence and how computers work 🤖
 - I enjoy coding and problem solving 🔎
 - I am 18 years old, quite reserved but dedicated and hard working 🫡
 
