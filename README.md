@@ -15,7 +15,7 @@ I am currently in my first year of studying at the University of South Wales, pu
 - Good at problem solving 🔎
 
 ## Recent projects completed: 
-- I designed a platformer game using GameMaker which was locally two player and utilised a pathfinding algorithm similar to Dijkstra's pathfinding technique to have an enemy chasing the players 👣
+- I designed a platformer game using GameMaker for my A level in Computer Science which was locally two player and utilised a pathfinding algorithm similar to Dijkstra's pathfinding technique to have an enemy chasing the players 👣
 - I worked in a group to create a digital story talking about the ethics of artificial intelligence 📖
 - I have programmed various small projects in C++ including a monthly income calculator, a height converter from feet and inches to meters, a burger stall sales calculator, a rainfall calculator that output the rainfall between certain months and gave an average monthly rainfall (all by reading from a file) and many more 👩‍💻
 - I completed a report on encryption, and the caesar and Vigenère ciphers 📝
