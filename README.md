@@ -4,14 +4,14 @@
 - I am a Computer Science university student 💻
 - I have always been drawn to computers, from writing stories on word as a child to quality time spent gaming with friends and family to curiosity about artificial intelligence and how computers work 🤖
 - I enjoy coding and problem solving 🔎
-- I am 18 years old, quite reserved but dedicated and hard working 🫡
+- I am 19 years old, quite reserved but dedicated and hard working 🫡
 
-I am currently in my first year of studying at the University of South Wales, pursuing a bachelor's degree in Computer Science. So far I have learnt the basics of C++, cryptography, the basics of data modelling/SQL and the ethics of artificial intelligence (through a group project) 📚
+I am currently in my second year of studying at the University of South Wales, pursuing a bachelor's degree in Computer Science. So far I have learnt the basics of C++, cryptography, the basics of data modelling/SQL and the ethics of artificial intelligence (through a group project) 📚
 
 ## Skillsets:
 - Good at working in a team 👥
 - Punctual (I absolutely cannot stand being late) 🕒
-- I am proficient at programming in python, and am currently learning to code in C++ 👩‍💻
+- I am proficient at programming in python, and am currently learning to code in C++ and C# 👩‍💻
 - Good at problem solving 🔎
 
 ## Recent projects completed: 
@@ -30,7 +30,7 @@ I am currently in my first year of studying at the University of South Wales, pu
 - Gym/exercise 🏋️‍♀️
 
 ## Fun facts about me:
-- I have completed my Duke of Edinburgh's award at the gold level, and am just awaiting my certificate for it ⛰️
+- I have completed my Duke of Edinburgh's award at the gold level ⛰️
 - I have completed an assistant trampolining instructor qualification and achieved badge 14 for trampolining (there are only 15 and I couldn't progress any further at the club I attended) 🏆
 - I have never broken a bone 🦴
 
